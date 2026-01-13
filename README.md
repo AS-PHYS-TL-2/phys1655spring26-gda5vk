@@ -1,4 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/K4eslJRu)
+
+# Maddie Schermerhorn
+
+# Reflection: 
+
+I felt like I got a little stuck on certain tasks but it was easy to manage figuring them out after a while and once everything was downloaded. I mostly had a hard time getting started and then after it seemed to be working pretty smoothly. I've worked somewhat with GitHub but never with my own account so I'm excited to work on this. 
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
